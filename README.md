@@ -8,7 +8,7 @@
 - Has 2 precious dogs that can be very dumb at times.
 
 #### The stuff that's happening now o'clock:
-- Right now I'm working on a [PCB Badge] (https://github.com/Maculos/badge)
+- Right now I'm working on a [PCB Badge](https://github.com/Maculos/badge)
 - I'm currently learning how to be human.
 <!--I need help with everything.-->
 
