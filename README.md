@@ -9,7 +9,7 @@
 
 
 ### How to contact me:
-- [My Site] (https://maculos.dev)
+- [My Site](https://maculos.dev)
 <!-- - placeholderemail@example.com
 - 000-000-0000
 -->
