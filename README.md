@@ -7,18 +7,16 @@
 - I have a server rack within 5 ft of me 25/7.
 - Has 2 precious dogs that can be very dumb at times.
 
-<!--
+
 ### How to contact me:
 - [My Site] (https://maculos.dev)
-- placeholderemail@example.com
+<!-- - placeholderemail@example.com
 - 000-000-0000
 -->
 
 #### The stuff that's happening now o'clock:
-<!-- - Right now I'm working on a [Lil robot gremlin](https://github.com/Maculos/) -->
+- Right now I'm working on a [Xbox Live replacement](https://github.com/Maculos/OpenLive)
 - I'm currently learning how to be human.
-- [Lua](https://www.lua.org/) is melting my brain.
-<!--I need help with everything.-->
 
 
 <!--
