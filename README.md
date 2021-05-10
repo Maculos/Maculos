@@ -10,6 +10,7 @@
 
 ### How to contact me:
 - [My Site](https://maculos.dev)
+- Discord: Maculos#7006
 <!-- - placeholderemail@example.com
 - 000-000-0000 <- figure out way to link cisco phones and my pc i guess
 -->
