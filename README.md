@@ -5,17 +5,17 @@
 - Addcited to coffee, particularly the stuff from the green pharmacy.
 - Eternally tired. (take a guess why)
 - I have a server rack within 5 ft of me 25/7.
-- Has 2 precious dogs that can be very dumb at times.
+- Has 2 adorable dogs that can be very dumb at times.
 
 
 ### How to contact me:
-- [My Site](https://maculos.github.io) <!--will change to correct domain once i read the docs on how to get https-->
+- [My Site](https://maculos.dev)
 <!-- - placeholderemail@example.com
-- 000-000-0000
+- 000-000-0000 <- figure out way to link cisco phones and my pc i guess
 -->
 
 #### The stuff that's happening now o'clock:
-- Right now I'm working on [my website](https://maculos.github.io)
+- Right now I'm working on [my website](https://maculos.dev)
 - I'm currently learning how to be human.
 
 
