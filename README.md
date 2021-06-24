@@ -2,6 +2,7 @@
 
 #### Quick info about me:
 - Any pronouns
+- Sweater_Weather.mp3
 - Addcited to coffee, particularly the stuff from the green pharmacy.
 - Eternally tired. (take a guess why)
 - I have a server rack within 5 ft of me 25/7.
@@ -17,6 +18,7 @@
 
 #### The stuff that's happening now o'clock:
 - Right now I'm working on [my website](https://maculos.dev)
+- I *SHOULD* be learning react to rebuild my site but than again I'm tired and want a pi compute module 4.
 - I'm currently learning how to be human.
 
 
