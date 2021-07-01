@@ -3,7 +3,6 @@
 #### Quick info about me:
 - Any pronouns
 - Sweater_Weather.mp3
-- Addcited to coffee, particularly the stuff from the green pharmacy.
 - Eternally tired. (take a guess why)
 - I have a server rack within 5 ft of me 25/7.
 - Has 2 adorable dogs that can be very dumb at times.
