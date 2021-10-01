@@ -2,17 +2,17 @@
 
 #### Quick info about me:
 - Any pronouns
-- Sweater_Weather.mp3
+- Certified Disaster Bi
 - Eternally tired. (take a guess why)
 - I have a server rack within 5 ft of me 25/7.
-- Has 2 adorable dogs that can be very dumb at times.
+- In possesion of far too many macs, however I might make the lime case into a grafana station
 
 
 ### How to contact me:
 - [My Site](https://maculos.dev)
 - Discord: Maculos#7006
-<!-- - placeholderemail@example.com
-- 000-000-0000 <- figure out way to link cisco phones and my pc i guess
+<!-- - placeholderemail@a-better-domain.owo
+- 000-000-0000 <- y doe?
 -->
 
 #### The stuff that's happening now o'clock:
