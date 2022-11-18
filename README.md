@@ -16,7 +16,7 @@
 -->
 
 #### The stuff that's happening now o'clock:
-- Right now I'm working on [my website](https://maculos.dev)
+- Right now I'm working on [a link cable emulator](https://github.com/Maculos/linky-boye)
 - I *SHOULD* be learning react to rebuild my site but than again I'm tired and want a pi compute module 4.
 - I'm currently learning how to be human.
 
