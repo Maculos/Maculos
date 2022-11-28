@@ -10,7 +10,7 @@
 
 ### How to contact me:
 - [My Site](https://maculos.dev)
-- Discord: Maculos#7006
+- Discord: Eris#9865
 <!-- - placeholderemail@a-better-domain.owo
 - 000-000-0000 <- y doe?
 -->
