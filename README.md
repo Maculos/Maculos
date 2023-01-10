@@ -9,9 +9,9 @@
 
 
 ### How to contact me:
-- [My Site](https://maculos.dev)
 - Discord: Eris#9865
-<!-- - placeholderemail@a-better-domain.owo
+<!-- - [My Site](https://maculos.dev) <-- bad
+- placeholderemail@a-better-domain.owo
 - 000-000-0000 <- y doe?
 -->
 
