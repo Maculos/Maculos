@@ -16,10 +16,13 @@
 -->
 
 #### The stuff that's happening now o'clock:
-- Right now I'm working on [a link cable emulator](https://github.com/Maculos/linky-boye)
+- Right now I'm working on a massive pile of random things
 - I *SHOULD* be learning react to rebuild my site but than again I'm tired and want a pi compute module 4.
 - I'm currently learning how to be human.
 
+### Ya girl's album (or song) of the month!
+##### [The Archandroid (Deluxe) by Janelle Monáe](https://music.apple.com/us/album/the-archandroid-deluxe/370300698)
+![The Archandroid by Janelle Monáe Album Cover](https://media.pitchfork.com/photos/5929a9dc5e6ef959693214af/1:1/w_600/12531582.jpg)
 
 <!--
         [TEMPLATES]
