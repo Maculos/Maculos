@@ -22,7 +22,7 @@
 
 ### Ya girl's album (or song) of the month!
 ##### [The Age Of Pleasure by Janelle Monáe](https://music.apple.com/us/album/the-age-of-pleasure/1686979040)
-![The Age Of Pleasure by Janelle Monáe Vinyl Album Cover](https://preview.redd.it/janelle-monae-spotify-exclusive-v0-o4yaij9kh8za1.png)
+![The Age Of Pleasure by Janelle Monáe Vinyl Album Cover](https://m.media-amazon.com/images/I/61UGAQMineL._UF1000,1000_QL80_.jpg)
 
 <!--
         [TEMPLATES]
