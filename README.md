@@ -21,8 +21,8 @@
 - I'm currently learning how to be human.
 
 ### Ya girl's album (or song) of the month!
-##### [The Archandroid (Deluxe) by Janelle Monáe](https://music.apple.com/us/album/the-archandroid-deluxe/370300698)
-![The Archandroid by Janelle Monáe Album Cover](https://media.pitchfork.com/photos/5929a9dc5e6ef959693214af/1:1/w_600/12531582.jpg)
+##### [The Age Of Pleasure by Janelle Monáe](https://music.apple.com/us/album/the-age-of-pleasure/1686979040)
+![The Age Of Pleasure by Janelle Monáe Vinyl Album Cover](https://preview.redd.it/janelle-monae-spotify-exclusive-v0-o4yaij9kh8za1.png)
 
 <!--
         [TEMPLATES]
