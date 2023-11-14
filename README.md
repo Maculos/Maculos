@@ -8,9 +8,9 @@
 
 
 ### How to contact me:
+- hello@maculos.dev
 - Discord: @erisdacatgirl <!-- yes i do hate that change -->
-<!-- - [My Site](https://maculos.dev) <-- bad
-- placeholderemail@a-better-domain.owo
+<!-- - [My Site](https://maculos.dev) <-- bad, will revamp
 - 000-000-0000 <- y doe?
 -->
 
@@ -20,7 +20,7 @@
 - I'm currently learning how to be human.
 
 #### The stuff might make it out of my brain sometime Soon™
-- Some sort of automation settings for my k8s cluster and containers
+- Finally replacing my slapdash deployments with proper containers
 - Hackathon season is coming up so that's gonna take a while for me to cobble together ideas.
 - at some point ill just make a tiny lil robot that carries around my plants bc its a decent way to show my skills
 
