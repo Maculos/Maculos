@@ -1,4 +1,8 @@
 # Greetings humans and webscrapers!
+<!--
+Look, I know there are excellent templates, animated embeds and everything else to spice up this page.
+However, (1) a lot of them are pure clutter and (2) do it yourself girl
+-->
 
 #### Quick info about me:
 - Any pronouns
@@ -14,6 +18,11 @@
 - 000-000-0000 <- y doe?
 -->
 
+#### Some of my other interests
+- Data Science, Collection and Analysis
+- Plants my beloved
+- Game design and development
+
 #### The stuff that's happening now o'clock:
 - My plant problem continues to fester and take hold of my life, the mint is doing well too.
 - I *SHOULD* be learning react to rebuild my site but then again I'm tired.
@@ -21,12 +30,11 @@
 
 #### The stuff might make it out of my brain sometime Soon™
 - Finally replacing my slapdash deployments with proper containers
-- Hackathon season is coming up so that's gonna take a while for me to cobble together ideas.
-- at some point ill just make a tiny lil robot that carries around my plants bc its a decent way to show my skills
+- Building out a enviromental data harvesting setup
 
 ### Ya girl's album (or song) of the month!
-##### [The Age Of Pleasure by Janelle Monáe](https://music.apple.com/us/album/the-age-of-pleasure/1686979040)
-![The Age Of Pleasure by Janelle Monáe Vinyl Album Cover](https://m.media-amazon.com/images/I/61UGAQMineL._SX425_.jpg)
+##### [Cold War by Janelle Monáe]([https://music.apple.com/us/album/the-age-of-pleasure/1686979040](https://music.apple.com/us/album/cold-war/370918921?i=370918965))
+![The ArchAndroid (Deluxe) by Janelle Monáe Album Cover](https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5)
 
 <!--
         [TEMPLATES]
