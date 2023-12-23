@@ -25,7 +25,8 @@ However, (1) a lot of them are pure clutter and (2) do it yourself girl
 
 #### The stuff that's happening now o'clock:
 - My plant problem continues to fester and take hold of my life, the mint is doing well too.
-- I *SHOULD* be learning react to rebuild my site but then again I'm tired.
+- Finally happy with using Arch, building a new server to remote play games since proton isnt happy with UE5 and I want to fully abandon windows on my main system
+- As of this commit I'm on lecture 3 of about 27 (or so) of a computer architecture course I'm taking notes on (thank god herself for having that public and free)
 - I'm currently learning how to be human.
 
 #### The stuff might make it out of my brain sometime Soon™
