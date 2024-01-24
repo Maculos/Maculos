@@ -33,7 +33,7 @@ However, (1) a lot of them are pure clutter and (2) do it yourself girl
 - Finally replacing my slapdash deployments with proper containers
 - Building out a enviromental data harvesting setup
 
-### Ya girl's album (or song) of the month!
+<!--### Ya girl's album (or song) of the month!
 ##### [Cold War by Janelle Monáe]([https://music.apple.com/us/album/the-age-of-pleasure/1686979040](https://music.apple.com/us/album/cold-war/370918921?i=370918965))
 ![The ArchAndroid (Deluxe) by Janelle Monáe Album Cover](https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5)
 
