@@ -32,6 +32,10 @@ However, (1) a lot of them are pure clutter and (2) do it yourself girl
 - Attending a hackathon in April, currently working on ideas
 - At some point (read: never) I will finally remake my site into something slightly less awful
 
+#### Oh yea, I'm supposed to be a developer.
+- I've been trained in JS, Python, HTML/CSS, Java and my beloved C family of languages among others
+- My servers currently run on a set of 4 mini pcs under ubuntu server, at some point I will come to my senses and move to debian
+
 <!--
         [TEMPLATES]
 #### The stuff that's happening now o'clock:
