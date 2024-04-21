@@ -23,13 +23,12 @@ However, (1) a lot of them are pure clutter and (2) do it yourself girl
 - Game design and development
 
 #### The stuff that's happening now o'clock:
-- Finally moved fully to arch, had minimal issues since then. (i configured my udev rules wrong and caused it to kernel panic)
+- Arch is nice but I might move to debian for stability and manually download the apps that aren't up to date yet
 - Just got a decent grade soldering and hot air station! Very happy about it even though the hot air causes my lights to dim cyclicly
-- As of this commit I've finally gotten to lecture 4 of about 27 (or so) of a [computer architecture course](https://youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) I'm taking notes on (thank god herself for having that public and free)
+- As of this commit I've finally gotten to lecture 6 of about 27 (or so) of a [computer architecture course](https://youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) I'm taking notes on (thank god herself for having that public and free)
 - I'm currently learning how to be human.
 
 #### The stuff might make it out of my brain sometime Soon™
-- Attending a hackathon in April, currently working on ideas
 - At some point (read: never) I will finally remake my site into something slightly less awful
 
 #### Oh yea, I'm supposed to be a developer.
