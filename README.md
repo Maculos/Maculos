@@ -23,8 +23,8 @@ However, (1) a lot of them are pure clutter and (2) do it yourself girl
 - Game design and development
 
 #### The stuff that's happening now o'clock:
-- Arch is nice but I might move to debian for stability and manually download the apps that aren't up to date yet
-- Just got a decent grade soldering and hot air station! Very happy about it even though the hot air causes my lights to dim cyclicly
+- All hail Debian, For Debian is Bliss and Debian is Love
+- Once again back on my nonsense (buying obscure at&t parts)
 - As of this commit I've finally gotten to lecture 6 of about 27 (or so) of a [computer architecture course](https://youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) I'm taking notes on (thank god herself for having that public and free)
 - I'm currently learning how to be human.
 
